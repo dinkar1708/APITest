@@ -1,0 +1,30 @@
+[
+  {
+    "id": "11",
+    "employee_name": "John",
+    "employee_salary": "10000",
+    "employee_age": "40",
+    "profile_image": ""
+  },
+  {
+    "id": "22",
+    "employee_name": "Kei",
+    "employee_salary": "20000",
+    "employee_age": "20",
+    "profile_image": ""
+  },
+  {
+    "id": "33",
+    "employee_name": "Josh",
+    "employee_salary": "30000",
+    "employee_age": "0",
+    "profile_image": ""
+  },
+  {
+    "id": "44",
+    "employee_name": "Tikei",
+    "employee_salary": "40000",
+    "employee_age": "0",
+    "profile_image": ""
+  }
+]
