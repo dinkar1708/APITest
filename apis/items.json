@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Iphone se",
+    "image": "https://github.com/dinkar1708/APITest/blob/master/resources/iphone_cover.png",
+    "price": "45000",
+  },
+  {
+    "id": "2",
+    "name": "Iphone se",
+    "image": "https://github.com/dinkar1708/APITest/blob/master/resources/nexus-5-back.png",
+    "price": "16758",
+  },
+]
